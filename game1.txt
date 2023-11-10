@@ -1,8 +1,8 @@
 Mate Buljan ima x pobjeda i y poraza
 XXXXXX XXXXX ima x pobjeda i y poraza
 
-. X .
-. . O
-. X O
+. X X
+. O O
+X X O
 
 
