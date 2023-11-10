@@ -1,7 +1,12 @@
 Mate Buljan ima x pobjeda i y poraza
 XXXXXX XXXXX ima x pobjeda i y poraza
 
+<<<<<<< HEAD
 X . .
+=======
+. X X
+. . O
+>>>>>>> 614570d (Peti potez)
 . X O
 . O O
 
